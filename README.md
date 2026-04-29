@@ -48,6 +48,34 @@
 
 ---
 
+### 📖 读书实践周实践 (Git 与代码版本管理)
+
+#### 1. 学习资料来源
+* [GitHub新手指南：这个星球最强资源库，开源免费！](https://www.bilibili.com/video/BV14qh8ztEhv/)
+* [『教程』一看就懂！Github基础教程](https://www.bilibili.com/video/BV1hS4y1S7wL/)
+
+#### 2. 实践流程
+* **环境配置**：在本地安装 Git，通过 `git config` 配置用户名和邮箱。
+* **本地开发**：使用 `git init` 初始化本地仓库，进行代码编写。
+* **远程同步**：在 GitHub 创建公开仓库，利用 `git remote add` 关联远程地址。
+* **版本管理**：通过 `git add` 和 `git commit` 记录修改，最后 `git push` 上传至云端。
+
+#### 3. 提交历史说明
+* **First Commit**: 完成 Git 环境初始化，添加基础项目文件。
+* **Update README**: 按照任务要求编写实践过程记录。
+* **Feature Optimization**: 提交优化后的代码逻辑，确保仓库内容完整。
+
+#### 4. 遇到的问题及解决方法
+* **问题 1：Push 时提示 Permission denied (publickey)**
+    * **解决方法**：生成 SSH Key 并将其添加到 GitHub 账户设置中，改用 SSH 协议进行推送。
+* **问题 2：误删文件后如何找回特定版本**
+    * **解决方法**：学习并使用 `git checkout [commit_id] -- [file_path]` 命令从历史提交中恢复文件。
+
+#### 5. 学习心得
+通过本次实践，我深刻体会到版本管理在工程化开发中的重要性。Git 不仅仅是一个备份工具，它提供的分支管理和版本回溯功能，极大地提升了代码的安全性和协作效率。作为人工智能专业的学生，掌握 Git 是管理复杂模型训练脚本和科研代码的基石。
+
+---
+
 <p align="center">
   期待与有趣的灵魂交流协作！ ✨
 </p>
