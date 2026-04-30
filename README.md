@@ -1,11 +1,5 @@
 # 👋 你好，我是 Tulkun339 ! 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Based+in+Haidian,+Beijing" alt="Typing SVG" />
-</p>
-
----
-
 ### 🚀 关于我 / About Me
 
 - 📍 **坐标**：中国 · 北京(Beijing,China)
