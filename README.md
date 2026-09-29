@@ -1,6 +1,7 @@
-# Hi there 👋
+# Hi 👋
 
 CS student majoring in AI.
-Focus on compilers, Linux and deep learning.
-Tech: C/C++, Python, Git, PyTorch.
-Enjoy digging into underlying principles.
+
+- 🔭 Focus on compiler, Linux and deep learning
+- 🛠️ C/C++, Python, Git, PyTorch
+- ⚡ Love exploring underlying principles
